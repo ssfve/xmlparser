@@ -1,6 +1,5 @@
 import xml.etree.ElementTree
-
-from xml.etree.ElementTree import ElementTree
+from xml.etree.ElementTree import ElementTree as ET
 import sys
 import os
 
